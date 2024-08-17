@@ -1,4 +1,4 @@
-![logo])(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMaruf001-MT%2FMaruf001-MT&psig=AOvVaw25gaD6C7DqhZBfccBcWTxZ&ust=1723983533376000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKje7aOB_IcDFQAAAAAdAAAAABAO)
+![logo])(https://github.com/yogeshwareedafane/yogeshwareedafane/blob/main/web.gif)
 # 💫 About Me:
 <br>🌱 I’m currently learning more about Web FrontEnd<br>💬 Ask me about Web Design,Web FrontEnd<br>⚡ Fun fact I think im funny
 
