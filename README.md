@@ -1,4 +1,4 @@
-![logo])(https://github.com/yogeshwareedafane/yogeshwareedafane/blob/main/web.gif)
+![logo](https://github.com/yogeshwareedafane/yogeshwareedafane/blob/main/web.gif)
 # 💫 About Me:
 <br>🌱 I’m currently learning more about Web FrontEnd<br>💬 Ask me about Web Design,Web FrontEnd<br>⚡ Fun fact I think im funny
 
