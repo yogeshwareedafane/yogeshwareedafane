@@ -12,8 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=yogeshwaree&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yogeshwaree&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwaree&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303
-730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yogeshwaree&theme=radical&no-frame=false&no-bg=true&margin-w=4)
